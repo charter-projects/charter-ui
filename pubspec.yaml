@@ -1,0 +1,32 @@
+name: charter_ui
+description: "A new Flutter package project."
+version: 0.0.1
+repository: https://github.com/charter-projects/charter-ui
+publish_to: none
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  auto_mappr_annotation: ^2.1.0
+  copy_with_extension: ^5.0.4
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.3
+  flutter:
+    sdk: flutter
+  gap: ^3.0.1
+  json_annotation: ^4.8.1
+  lucide_icons: ^0.257.0
+
+dev_dependencies:
+  auto_mappr: ^2.2.0
+  build_runner: ^2.4.6
+  charter_analysis:
+    git: https://github.com/charter-projects/charter-analysis
+  copy_with_extension_gen: ^5.0.4
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.7.1
+
+flutter:
