@@ -1,6 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
 
-import 'iconsMap.dart';
+import 'icons_map.dart';
 
 part 'icons.g.dart';
 

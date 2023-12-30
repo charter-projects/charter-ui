@@ -5,7 +5,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'icons.dart';
 import 'mapper.dart';
 import 'model/icons.dart';
-import 'model/iconsMap.dart';
+import 'model/icons_map.dart';
 
 class CharterIconCubit extends Cubit<Icons> {
   CharterIconCubit() : super(Icons.defaults);
