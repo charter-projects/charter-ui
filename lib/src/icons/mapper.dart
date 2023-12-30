@@ -2,7 +2,7 @@ import 'package:auto_mappr_annotation/auto_mappr_annotation.dart';
 
 import 'icons.dart';
 import 'mapper.auto_mappr.dart';
-import 'model/iconsMap.dart';
+import 'model/icons_map.dart';
 
 @AutoMappr(
   [

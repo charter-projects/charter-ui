@@ -3,7 +3,7 @@ import 'package:json_annotation/json_annotation.dart';
 
 import '../converter.dart';
 
-part 'iconsMap.g.dart';
+part 'icons_map.g.dart';
 
 @JsonSerializable(
   disallowUnrecognizedKeys: false,
@@ -52,4 +52,3 @@ final class IconsMap {
   @NullableIconDataConverter()
   final IconData? windowMaximize;
 }
-

@@ -10,7 +10,7 @@
 import 'package:auto_mappr_annotation/auto_mappr_annotation.dart' as _i1;
 
 import 'icons.dart' as _i3;
-import 'model/iconsMap.dart' as _i2;
+import 'model/icons_map.dart' as _i2;
 
 /// {@template package:charter_ui/src/icons/mapper.dart}
 /// Available mappings:

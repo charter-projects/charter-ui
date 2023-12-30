@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'iconsMap.dart';
+part of 'icons_map.dart';
 
 // **************************************************************************
 // JsonSerializableGenerator
